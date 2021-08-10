@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Everthon Souza",
+      "conta": 3101252
+    },
+    {
+      "id": 2,
+      "nome": "Aarao Primo",
+      "conta": 1234555
+    }
+  ]
+}
