@@ -1,14 +1,12 @@
 {
   "usuarios": [
     {
-      "id": 1,
-      "nome": "Everthon Souza",
-      "conta": 3101252
+      "id": 3101252,
+      "nome": "Everthon Souza"
     },
     {
-      "id": 2,
-      "nome": "Aarao Primo",
-      "conta": 1234555
+      "id": 1234555,
+      "nome": "Aarao Primo"
     }
   ]
 }
